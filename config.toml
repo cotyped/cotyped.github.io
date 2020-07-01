@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://cotyped.github.io/blog/"
 languageCode = "en-us"
 title = "Cotyped | Γ"
 theme="codex"
@@ -7,10 +7,10 @@ theme="codex"
   iconTitles = ["GitHub"]
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+  identifier = "posts"
+  name = "posts"
+  title = "Posts"
+  url = "/posts"
 
 [[menu.main]]
   identifier = "about"
