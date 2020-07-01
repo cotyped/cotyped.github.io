@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cotyped | Γ"
+theme="codex"
+[params]
+  github = "https://github.com/cotyped"
+  iconTitles = ["GitHub"]
+
+[[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/about"
+
+[[menu.main]]
+  identifier = "home"
+  name = "home"
+  title = "home"
+  url = "/"
